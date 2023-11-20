@@ -4,6 +4,7 @@ With the Thrall helper idea I ended up developing one for vengeance of lunar mag
 ## Authors
 
 - [@Th3mike](https://github.com/Th3mike)
+- [@cwjoshuak](https://github.com/cwjoshuak) 
 
 ## FAQ
 
